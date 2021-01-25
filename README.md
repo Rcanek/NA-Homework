@@ -15,6 +15,6 @@ It has the following Structure:
   * Degree
   * Conclusions
 - Question 4
-  *Algorithm
+  * Algorithm
   * Calculation of the values
   * Conclusions
